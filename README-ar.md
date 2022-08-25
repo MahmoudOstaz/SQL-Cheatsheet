@@ -3,18 +3,18 @@
 
 #### BASICS
 
-1. [Populating & Modifying Tables](https://github.com/jeznacki/SQL-Cheatsheet#populating-and-modifying-tables) - **CREATE, INSERT, UPDATE, WHERE, DISTINCT**
-2. [Querying Multiple Tables](https://github.com/jeznacki/SQL-Cheatsheet#querying-multiple-tables) - **INNER JOIN, SELECT**
-3. [Usnig Sets](https://github.com/jeznacki/SQL-Cheatsheet#usnig-sets-unionintersect) - **UNION ALL, INTERSECT**
-4. [Temporary tables & Views](https://github.com/jeznacki/SQL-Cheatsheet#temporary-tables-and-views) - **VIEW, TEMPORARY TABLE**
-5. [Data Manipulation & Conversion](https://github.com/jeznacki/SQL-Cheatsheet#data-manipulation--conversion-functions) - **LENGTH(), REPLACE(), POSITION(), CEIL(), FLOOR(), STR_TO_DATE()**
-6. [Data Grouping and Aggregates](https://github.com/jeznacki/SQL-Cheatsheet#data-grouping-and-aggregates) - **GROUP BY, HAVING, MAX(), MIN(), COUNT(), SUM() AVG()**
+1. [Populating & Modifying Tables](https://github.com/MahmoudOstaz/SQL-Cheatsheet#populating-and-modifying-tables) - **CREATE, INSERT, UPDATE, WHERE, DISTINCT**
+2. [Querying Multiple Tables](https://github.com/MahmoudOstaz/SQL-Cheatsheet#querying-multiple-tables) - **INNER JOIN, SELECT**
+3. [Usnig Sets](https://github.com/MahmoudOstaz/SQL-Cheatsheet#usnig-sets-unionintersect) - **UNION ALL, INTERSECT**
+4. [Temporary tables & Views](https://github.com/MahmoudOstaz/SQL-Cheatsheet#temporary-tables-and-views) - **VIEW, TEMPORARY TABLE**
+5. [Data Manipulation & Conversion](https://github.com/MahmoudOstaz/SQL-Cheatsheet#data-manipulation--conversion-functions) - **LENGTH(), REPLACE(), POSITION(), CEIL(), FLOOR(), STR_TO_DATE()**
+6. [Data Grouping and Aggregates](https://github.com/MahmoudOstaz/SQL-Cheatsheet#data-grouping-and-aggregates) - **GROUP BY, HAVING, MAX(), MIN(), COUNT(), SUM() AVG()**
 
 #### ADVANCED
-1. [Subqueries](https://github.com/jeznacki/SQL-Cheatsheet#subqueries) - **SELECT * FROM (SELECT * FROM other_table)**
-2. [Joins](https://github.com/jeznacki/SQL-Cheatsheet#joins) - **OUTER JOIN, MULTIPLE TABLES, NATURAL JOIN**
-3. [SQL Conditionals](https://github.com/jeznacki/SQL-Cheatsheet/blob/main/README.md#sql-conditionals) - **CASE, WHEN, THEN**
-4. [Views](https://github.com/jeznacki/SQL-Cheatsheet/blob/main/README.md#views-1) - **VIEW**
+1. [Subqueries](https://github.com/MahmoudOstaz/SQL-Cheatsheet#subqueries) - **SELECT * FROM (SELECT * FROM other_table)**
+2. [Joins](https://github.com/MahmoudOstaz/SQL-Cheatsheet#joins) - **OUTER JOIN, MULTIPLE TABLES, NATURAL JOIN**
+3. [SQL Conditionals](https://github.com/MahmoudOstaz/SQL-Cheatsheet/blob/main/README.md#sql-conditionals) - **CASE, WHEN, THEN**
+4. [Views](https://github.com/MahmoudOstaz/SQL-Cheatsheet/blob/main/README.md#views-1) - **VIEW**
 <br/>
 
 
